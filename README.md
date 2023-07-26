@@ -1,3 +1,3 @@
 ### Git And GitHub Tutorials
 
-## Tony RAthi
+## Ashwani Rathi
